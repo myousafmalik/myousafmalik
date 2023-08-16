@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @m-yusuf-malik
-- 👀 I’m interested in A.I. related tasks
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on anything could be realted to software
+- 👋 Hi, I’m Yousaf
+- 👀 I’m interested in A.I.-related tasks
+- 🌱 I like AI but I also have hands-on experience in Web Development in technologies like Django, Node.js, Laravel for the backend and React.js, HTML, CSS, bootstrap for frontend
+- 💞️ I’m looking to collaborate on anything that could be related to software and cool
 - 📫 How to reach me yusufmalik0075@gmail.com
 
 <!---
