@@ -1,7 +1,7 @@
 - Hi, I’m Yousaf
 - I’m interested in A.I.-related tasks
 - I like AI but I also have hands-on experience in Web Development technologies like Django, Node.js, Laravel for the backend and React.js, HTML, CSS, bootstrap for frontend
-- I'm looking to collaborate on exciting and innovative software projects.
+- I'm looking to collaborate on exciting and innovative software projects
 - How to reach me? -> yusufmalik0075@gmail.com
 
 <!---
